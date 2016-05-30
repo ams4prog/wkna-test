@@ -7,6 +7,10 @@
   },
   "require": {
     "ext-redis": "*",
-    "vlucas/phpdotenv": "2.2.0"
+    "vlucas/phpdotenv": "2.2.0",
+    "slim/slim": "^3.0"
+  },
+  "require-dev": {
+    "php-curl-class/php-curl-class": "^4.11"
   }
 }
